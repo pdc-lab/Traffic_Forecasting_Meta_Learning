@@ -1,0 +1,3 @@
+[submodule "sttn"]
+	path = sttn
+	url = https://github.com/wubin5/STTN.git
