@@ -4,3 +4,6 @@
 [submodule "astnn"]
 	path = astnn
 	url = https://github.com/yokifly/ASTTN_pytorch.git
+[submodule "astgnn"]
+	path = astgnn
+	url = https://github.com/guoshnBJTU/ASTGNN.git
